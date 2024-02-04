@@ -1,4 +1,4 @@
-# YogaAI Application
+# YogaDelight Application
 
 ## Team
 - **BACKEND:** Tisha Singhal
