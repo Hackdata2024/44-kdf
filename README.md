@@ -22,12 +22,12 @@ YogaAI is an application that utilizes artificial intelligence to detect and ana
 2. Install dependencies: `npm install`
 3. Start the project: `npm start`
 
-## Deployment Link (If Deployed)
+## Deployment Link 
 Visit the deployed YogaAI application [here](https://yoga-pose-v13.netlify.app/).
 
 ## Core Code Explanation
 - **Frontend:** The frontend of the application is developed using ReactJS. Explore the code in the `frontend` directory to understand the user interface and interactions.
 
-- **AI Model:** The AI model responsible for pose recognition is located in the `classification` folder. The Python code utilizes TensorFlow for machine learning and OpenCV for computer vision. Dive into this folder to understand how the AI interprets and analyzes yoga postures.
+- **AI Model:** The AI model responsible for pose recognition is located in the `classification model` folder. The Python code utilizes TensorFlow for machine learning and OpenCV for computer vision. Dive into this folder to understand how the AI interprets and analyzes yoga postures.
 
 Feel free to explore the codebase and contribute to the development of the YogaAI application!
